@@ -9,7 +9,7 @@ The contents of the project are listed as follows:
 - [Innovation](#innovation)
 - [Development part 1](#development-part-1)
 - [Development part 2](#development-part-2)
-
+- [Project Documentation & Submission](#Project Documentation & Submission)    
 ---
 
 ## Problem definition and design thinking
