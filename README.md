@@ -36,5 +36,5 @@ In this phase implementing an user authentication, shopping cart, and checkout f
   
 ## Project Documentation & Submission  
 In this phase outlining the project's objective, design thinking process, and development phases.
-Including the platform's layout, features, and technical implementation details.
+Describing the platform's layout, features, and technical implementation details.
 Including the screenshots or images of the platform's user interface as a documentary
