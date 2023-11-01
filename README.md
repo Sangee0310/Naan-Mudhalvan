@@ -9,7 +9,7 @@ The contents of the project are listed as follows:
 - [Innovation](#innovation)
 - [Development part 1](#development-part-1)
 - [Development part 2](#development-part-2)
-- [Project Documentation & Submission](#Project-Documentation-Submission)    
+- [Project Documentation](#Project-Documentation)    
 ---
 
 ## Problem definition and design thinking
@@ -34,8 +34,9 @@ In this phase implementing an user authentication, shopping cart, and checkout f
 - Phase 4 - [CAD_Phase4]
 (https://github.com/Sangee0310/Naan-Mudhalvan/blob/d549997851e8b62e4426af67ac13ea9ff280cc5c/CAD_Phase4.docx) 
   
-## Project Documentation & Submission  
-In this phase outlining the project's objective, design thinking process, and development phases.
+## Project Documentation
+In this phase outlining the project's objSubmis
+sign thinking process, and development phases.
 Describing the platform's layout, features, and technical implementation details.
 Including the screenshots or images of the platform's user interface as a documentary
 - Phase 5 - [CAD_Phase5]
